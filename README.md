@@ -1,1 +1,3 @@
-# Validacion-de-formulario-para-registro-de-nuevos-usuarios
+# Funcion validacion de formulario para registro de nuevos usuarios.
+
+*¿Cómo funciona la función?
