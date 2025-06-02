@@ -4,7 +4,7 @@
 La funcion tiene varios pasos a validar con diferentes alerts dependiendo si se completaron los campos solicitados o no.
 
 1.Verifica que todos los campos estén completos:
-Si alguno de los valores está vacío (""), devuelve un mensaje de advertencia.
+Si alguno de los valores esta vacio (""), devuelve un mensaje de advertencia.
 
 2.Valida el formato del email:
 Usa .includes("@") y .includes(".") para comprobar que el correo tenga el formato básico correcto.
@@ -15,7 +15,7 @@ Esto ayuda a mejorar la seguridad.
 4.Compara la contraseña con su confirmación:
 Si no coinciden, devuelve un mensaje de error.
 
-5.Si todo está bien:
+5.Si todo esta bien:
 Retorna un mensaje de éxito personalizado con el nombre de usuario.
 
 
@@ -24,4 +24,4 @@ Es una funcion importante para validad que los datos que el usuario ingrese son 
 
 
 *¿Cómo la pensaron y cómo la implementaron?*
-Se identificaron los campos clave de un registro: nombre de usuario, email y contraseñas para luego pensar en que validaciones básicas son necesarias para que los datos fueran aceptables y guiar al usuario.
+Se identificaron los campos clave de un registro: nombre de usuario, email y contraseñas para luego pensar en que validaciones basicas son necesarias para que los datos fueran aceptables y guiar al usuario.
