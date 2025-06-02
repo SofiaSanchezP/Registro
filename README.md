@@ -9,7 +9,7 @@ La funcion tiene varios pasos a validar con diferentes alerts dependiendo si se 
 Si alguno de los valores esta vacio (""), devuelve un mensaje de advertencia.
 
 2.Valida el formato del email:
-Usa .includes("@") y .includes(".") para comprobar que el correo tenga el formato básico correcto.
+Usa .includes("@") y .includes(".") para comprobar que el correo tenga el formato correcto.
 
 3.Controla que la contraseña tenga al menos 6 caracteres:
 Esto ayuda a mejorar la seguridad.
