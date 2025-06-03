@@ -25,4 +25,4 @@ Es una funcion importante para validad que los datos que el usuario ingrese son 
 
 
 *¿Cómo la pensaron y cómo la implementaron?*
-Se identificaron los campos clave de un registro: nombre de usuario, email y contraseñas para luego pensar en que validaciones basicas son necesarias para que los datos fueran aceptables y guiar al usuario.
+Se identificaron los principales campos de un registro: nombre de usuario, email y contraseñas para luego pensar en que validaciones basicas son necesarias para que los datos fueran aceptables y guiar al usuario.
