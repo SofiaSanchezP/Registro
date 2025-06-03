@@ -11,14 +11,13 @@ Si alguno de los valores esta vacio (""), devuelve un mensaje de advertencia.
 2.Valida el formato del email:
 Usa .includes("@") y .includes(".") para comprobar que el correo tenga el formato correcto.
 
-3.Controla que la contraseña tenga al menos 6 caracteres:
-Esto ayuda a mejorar la seguridad.
+3.Controla que la contraseña tenga al menos 6 caracteres.
 
 4.Compara la contraseña con su confirmación:
-Si no coinciden, devuelve un mensaje de error.
+Si no coinciden, devuelve un mensaje.
 
 5.Si todo esta bien:
-Retorna un mensaje de éxito personalizado con el nombre de usuario.
+Retorna un mensaje personalizado con el nombre de usuario.
 
 
 *¿Por qué es útil o necesaria para su proyecto?*
